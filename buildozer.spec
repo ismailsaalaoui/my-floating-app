@@ -117,6 +117,7 @@ android.minapi = 24
 
 # (int) Android SDK version to use
 android.sdk = 33
+android.accept_sdk_license = True
 android.build_tools_version = 33.0.2
 
 # (str) Android NDK version to use
